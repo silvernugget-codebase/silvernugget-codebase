@@ -6,6 +6,6 @@ I like R programming and am currently learning Python. My repos are mostly eithe
 
 My most ambitious work so far has been my Bachelor's thesis:
 
-**[Monte Carlo and Quasi-Monte Carlo Methods in Finance](https://github.com/silvernugget-codebase/Monte-Carlo-and-Quasi-Monte-Carlo-Methods-for-Option-Pricing)**
+**[Monte Carlo and Quasi-Monte Carlo Methods in Finance](https://github.com/silvernugget-codebase/Monte-Carlo-and-Quasi-Monte-Carlo-Methods-for-Option-Pricing):**
 Pricing discretely monitored arithmetic Asian options in the Black–Scholes model.
 I compared Monte Carlo with randomized Quasi-Monte Carlo across different dimensions and Brownian path constructions.
