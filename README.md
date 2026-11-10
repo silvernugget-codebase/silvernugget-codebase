@@ -1,6 +1,6 @@
 ## Hello...
 
-... and welcome to my Github! I'm Bischoy and I studied Business, Economics and Social Sciences at Vienna University of Economics with a strong quantitative focus, specializing in Finance and Business Mathematics. I'm interested in quantitative risk analysis, simulation methods and validating financial models. 
+... and welcome to my Github! I'm Bischoy and I studied *Business, Economics and Social Sciences* at Vienna University of Economics with a strong quantitative focus, specializing in *Finance* and *Business Mathematics*. I'm interested in quantitative analysis, simulation methods and validating financial models. 
 
 I like R programming and am currently learning Python. My repos are mostly either university projects or personal projects.
 
